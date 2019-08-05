@@ -1,0 +1,7 @@
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\OO_Programming_Challenge1_102690319\Challenge 1 Shapes\Challenge 1 Shapes\bin\Debug\Challenge 1 Shapes.exe.config
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\OO_Programming_Challenge1_102690319\Challenge 1 Shapes\Challenge 1 Shapes\bin\Debug\Challenge 1 Shapes.exe
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\OO_Programming_Challenge1_102690319\Challenge 1 Shapes\Challenge 1 Shapes\bin\Debug\Challenge 1 Shapes.pdb
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\OO_Programming_Challenge1_102690319\Challenge 1 Shapes\Challenge 1 Shapes\obj\Debug\Challenge 1 Shapes.csprojAssemblyReference.cache
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\OO_Programming_Challenge1_102690319\Challenge 1 Shapes\Challenge 1 Shapes\obj\Debug\Challenge 1 Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\OO_Programming_Challenge1_102690319\Challenge 1 Shapes\Challenge 1 Shapes\obj\Debug\Challenge 1 Shapes.exe
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\OO_Programming_Challenge1_102690319\Challenge 1 Shapes\Challenge 1 Shapes\obj\Debug\Challenge 1 Shapes.pdb
