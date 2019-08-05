@@ -135,7 +135,7 @@ namespace Challenge_1_Shapes
     }
 
     public class RightAngleTriangle : Triangle {
-        public RightAngleTriangle(string c, float side1, float side2) : base(c, side1, side2, side1/*this value needs to be changed*/) {
+        public RightAngleTriangle(string c, float side1, float side2) : base(c, side1, side2, (float)Math.Sqrt(side1*side1 + side2*side2)) {
         }
 
         public float GetArea() {
@@ -147,8 +147,8 @@ namespace Challenge_1_Shapes
         public EquilateralTriangle(string c, float side) : base(c, side, side, side) {
         }
 
-        public float GetArea() {
+        //public float GetArea() {
             //return (Math.Sqrt(3f) / 4f) * Side1Length * Side1Length;
-        }
+        //}
     }
 }
