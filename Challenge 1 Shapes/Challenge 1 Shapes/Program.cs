@@ -147,8 +147,8 @@ namespace Challenge_1_Shapes
         public EquilateralTriangle(string c, float side) : base(c, side, side, side) {
         }
 
-        //public float GetArea() {
-            //return (Math.Sqrt(3f) / 4f) * Side1Length * Side1Length;
-        //}
+        public float GetArea() {
+            return (float)Math.Sqrt(3f) / 4f * Side1Length * Side1Length;
+        }
     }
 }
